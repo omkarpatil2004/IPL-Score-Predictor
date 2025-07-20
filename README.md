@@ -69,6 +69,13 @@ Here are some examples to test:
 
 ---
 
+## 📸 Local Folder Structure
+
+![Folder Structure](screenshot.png)
+
+
+---
+
 ## 📦 Installation
 
 ### Step 1: Clone the repo
