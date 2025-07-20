@@ -28,7 +28,7 @@ This project uses IPL data from **2008 to 2024** and applies feature engineering
 
 ## 📸 App Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshots/App.png)
 
 ---
 
@@ -71,7 +71,7 @@ Here are some examples to test:
 
 ## 📸 Local Folder Structure
 
-![Folder Structure](screenshot.png)
+![Folder Structure](Screenshots/Folder.png)
 
 
 ---
