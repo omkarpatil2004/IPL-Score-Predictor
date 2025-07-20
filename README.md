@@ -43,7 +43,7 @@ ipl-score-predictor/
 ├── Untitled1.ipynb         # Jupyter notebook (model training)
 ├── Dataset.zip             # Zipped dataset (matches.csv + deliveries.csv)
 ├── Pickle/Refer.txt        # Google Drive link to the model (.pkl)
-├── screenshot.png          # Screenshot of the running app
+├── Screenshots/            # Screenshots of running app and folder struture
 └── README.md               # You’re here!
 
 ````
