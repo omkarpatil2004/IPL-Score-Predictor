@@ -26,6 +26,12 @@ This project uses IPL data from **2008 to 2024** and applies feature engineering
 
 ---
 
+Live demo : (https://ipl-score-predictor-omkarpatil03.streamlit.app/)
+
+
+
+---
+
 ## 📸 App Screenshot
 
 ![App Screenshot](Screenshots/App.PNG)
