@@ -1,6 +1,1 @@
-Note : 
-The pickle file is large and cannot be uploaded here.
-please click on the Google Drive link below to download the file.
-File name - score_predictor.zip
-
-link - https://drive.google.com/file/d/1sPW9aq5Tuwrww_J_cy7vCKzFuE2QlbBh/view?usp=drive_link
+https://drive.google.com/file/d/1sPW9aq5Tuwrww_J_cy7vCKzFuE2QlbBh/view?usp=drive_link
